@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2CC8A01B-48F1-4288-B121-4CEC272CD7CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project.FlorInvent.UI</RootNamespace>
+    <AssemblyName>Project.FlorInvent.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlterarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarCliente.Designer.cs">
+      <DependentUpon>AlterarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarDeposito.Designer.cs">
+      <DependentUpon>AlterarDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarFornecedor.Designer.cs">
+      <DependentUpon>AlterarFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarFuncionario.Designer.cs">
+      <DependentUpon>AlterarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarItem.Designer.cs">
+      <DependentUpon>AlterarItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarTipoItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarTipoItem.Designer.cs">
+      <DependentUpon>AlterarTipoItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarUsuario.Designer.cs">
+      <DependentUpon>AlterarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroCliente.Designer.cs">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroDeposito.Designer.cs">
+      <DependentUpon>CadastroDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroFornecedor.Designer.cs">
+      <DependentUpon>CadastroFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroFuncionario.Designer.cs">
+      <DependentUpon>CadastroFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroItem.Designer.cs">
+      <DependentUpon>CadastroItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroTipoItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroTipoItem.Designer.cs">
+      <DependentUpon>CadastroTipoItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroUsuario.Designer.cs">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaFornecedor.Designer.cs">
+      <DependentUpon>ConsultaFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarCliente.Designer.cs">
+      <DependentUpon>ConsultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarDeposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarDeposito.Designer.cs">
+      <DependentUpon>ConsultarDeposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarEstoque.Designer.cs">
+      <DependentUpon>ConsultarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarFuncionario.Designer.cs">
+      <DependentUpon>ConsultarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarItem.Designer.cs">
+      <DependentUpon>ConsultarItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarTipoItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarTipoItem.Designer.cs">
+      <DependentUpon>ConsultarTipoItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarUsuario.Designer.cs">
+      <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control.Designer.cs">
+      <DependentUpon>Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimentacaoEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimentacaoEntrada.Designer.cs">
+      <DependentUpon>MovimentacaoEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimentacaoSaida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimentacaoSaida.Designer.cs">
+      <DependentUpon>MovimentacaoSaida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelatorioEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioEntrada.Designer.cs">
+      <DependentUpon>RelatorioEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioEntradaItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioEntradaItem.Designer.cs">
+      <DependentUpon>RelatorioEntradaItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioSaida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioSaida.Designer.cs">
+      <DependentUpon>RelatorioSaida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioSaidaItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioSaidaItem.Designer.cs">
+      <DependentUpon>RelatorioSaidaItem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AlterarCliente.resx">
+      <DependentUpon>AlterarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarDeposito.resx">
+      <DependentUpon>AlterarDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarFornecedor.resx">
+      <DependentUpon>AlterarFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarFuncionario.resx">
+      <DependentUpon>AlterarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarItem.resx">
+      <DependentUpon>AlterarItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarTipoItem.resx">
+      <DependentUpon>AlterarTipoItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarUsuario.resx">
+      <DependentUpon>AlterarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroCliente.resx">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroDeposito.resx">
+      <DependentUpon>CadastroDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroFornecedor.resx">
+      <DependentUpon>CadastroFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroFuncionario.resx">
+      <DependentUpon>CadastroFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroItem.resx">
+      <DependentUpon>CadastroItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroTipoItem.resx">
+      <DependentUpon>CadastroTipoItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroUsuario.resx">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaFornecedor.resx">
+      <DependentUpon>ConsultaFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarCliente.resx">
+      <DependentUpon>ConsultarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarDeposito.resx">
+      <DependentUpon>ConsultarDeposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarEstoque.resx">
+      <DependentUpon>ConsultarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarFuncionario.resx">
+      <DependentUpon>ConsultarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarItem.resx">
+      <DependentUpon>ConsultarItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarTipoItem.resx">
+      <DependentUpon>ConsultarTipoItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarUsuario.resx">
+      <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control.resx">
+      <DependentUpon>Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimentacaoEntrada.resx">
+      <DependentUpon>MovimentacaoEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimentacaoSaida.resx">
+      <DependentUpon>MovimentacaoSaida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RelatorioEntrada.resx">
+      <DependentUpon>RelatorioEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioEntradaItem.resx">
+      <DependentUpon>RelatorioEntradaItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioSaida.resx">
+      <DependentUpon>RelatorioSaida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioSaidaItem.resx">
+      <DependentUpon>RelatorioSaidaItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Project.FlorInvent.Dao\Project.FlorInvent.Dao.csproj">
+      <Project>{db9e3e60-4305-4eb3-b0b5-50689e764e12}</Project>
+      <Name>Project.FlorInvent.Dao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.FlorInvent.Interface\Project.FlorInvent.Interface.csproj">
+      <Project>{24f5a308-2aee-4fd1-a381-fc375a4602f0}</Project>
+      <Name>Project.FlorInvent.Interface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

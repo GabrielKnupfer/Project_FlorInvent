@@ -1,0 +1,54 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.pdb
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.pdb
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\mscorlib.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.pdb
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.pdb
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\pt-BR\mscorlib.resources.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\normidna.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\normnfc.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\normnfd.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\normnfkc.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\normnfkd.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.csprojResolveAssemblyReference.cache
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Dao\bin\Debug\System.Data.SQLite.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\System.Data.SQLite.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.csprojResolveAssemblyReference.cache
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Dao\obj\Debug\Project.FlorInvent.Dao.pdb

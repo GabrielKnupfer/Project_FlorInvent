@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB9E3E60-4305-4EB3-B0B5-50689E764E12}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project.FlorInvent.Dao</RootNamespace>
+    <AssemblyName>Project.FlorInvent.Dao</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Binder.cs" />
+    <Compile Include="ClienteDao.cs" />
+    <Compile Include="DepositoDao.cs" />
+    <Compile Include="Entity\ClienteEntity.cs" />
+    <Compile Include="Entity\DepositoEntity.cs" />
+    <Compile Include="Entity\EstoqueEntity.cs" />
+    <Compile Include="Entity\FornecedorEntity.cs" />
+    <Compile Include="Entity\FuncionarioEntity.cs" />
+    <Compile Include="Entity\ItemEntity.cs" />
+    <Compile Include="Entity\MovimentoEntradaEntity.cs" />
+    <Compile Include="Entity\MovimentoEntradaItemEntity.cs" />
+    <Compile Include="Entity\MovimentoSaidaEntity.cs" />
+    <Compile Include="Entity\MovimentoSaidaItemEntity.cs" />
+    <Compile Include="Entity\TipoItemEntity.cs" />
+    <Compile Include="Entity\UsuarioEntity.cs" />
+    <Compile Include="EstoqueDao.cs" />
+    <Compile Include="FornecedorDao.cs" />
+    <Compile Include="FuncionarioDao.cs" />
+    <Compile Include="IBindable.cs" />
+    <Compile Include="ItemDao.cs" />
+    <Compile Include="MovimentoEntradaDao.cs" />
+    <Compile Include="MovimentoEntradaItemDao.cs" />
+    <Compile Include="MovimentoSaidaDao.cs" />
+    <Compile Include="MovimentoSaidaItemDao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TipoItemDao.cs" />
+    <Compile Include="UsuarioDao.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Project.FlorInvent.Data\Project.FlorInvent.Data.csproj">
+      <Project>{87e4130d-541e-44df-b83d-dba5449bc54e}</Project>
+      <Name>Project.FlorInvent.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.FlorInvent.Interface\Project.FlorInvent.Interface.csproj">
+      <Project>{24f5a308-2aee-4fd1-a381-fc375a4602f0}</Project>
+      <Name>Project.FlorInvent.Interface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

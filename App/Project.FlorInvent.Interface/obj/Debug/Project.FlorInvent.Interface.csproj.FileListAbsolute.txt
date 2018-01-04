@@ -1,0 +1,32 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.csprojResolveAssemblyReference.cache
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.pdb
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\mscorlib.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\pt-BR\mscorlib.resources.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\normidna.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\normnfc.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\normnfd.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\normnfkc.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\normnfkd.nlp
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.csprojResolveAssemblyReference.cache
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.dll
+E:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Interface\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.csprojResolveAssemblyReference.cache
+C:\Project_FlorInvent\App\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.Interface\obj\Debug\Project.FlorInvent.Interface.pdb

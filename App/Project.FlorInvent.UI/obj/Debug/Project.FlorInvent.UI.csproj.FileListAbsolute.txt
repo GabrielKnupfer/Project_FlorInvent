@@ -1,0 +1,218 @@
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarCliente.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarDeposito.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFornecedor.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFuncionario.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarItem.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarUsuario.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroCliente.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroDeposito.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFornecedor.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFuncionario.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroItem.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroUsuario.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultaFornecedor.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarCliente.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarDeposito.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarFuncionario.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarItem.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarUsuario.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Control.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Home.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.exe
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.dll
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoEntrada.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoSaida.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntrada.resources
+C:\Users\Stephen\Documents\Visual Studio 2013\Projects\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaida.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe.config
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.exe
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.dll
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarCliente.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarDeposito.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFornecedor.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFuncionario.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarUsuario.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroCliente.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroDeposito.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFornecedor.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFuncionario.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroUsuario.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultaFornecedor.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarCliente.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarDeposito.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarFuncionario.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarUsuario.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Control.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Home.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoEntrada.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoSaida.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntrada.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaida.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Login.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntradaItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaidaItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroTipoItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarTipoItem.resources
+C:\Users\Gabriel\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarTipoItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe.config
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.exe
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.pdb
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.pdb
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.dll
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.dll
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.dll
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.pdb
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.pdb
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.pdb
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csprojResolveAssemblyReference.cache
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarCliente.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarDeposito.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFornecedor.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFuncionario.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarTipoItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarUsuario.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroCliente.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroDeposito.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFornecedor.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFuncionario.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroTipoItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroUsuario.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultaFornecedor.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarCliente.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarDeposito.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarFuncionario.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarTipoItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarUsuario.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Control.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Home.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Login.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoEntrada.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoSaida.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Properties.Resources.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntrada.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntradaItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaida.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaidaItem.resources
+D:\Projeto\PROJETO INTEGRADO II\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csproj.GenerateResource.Cache
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe.config
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarCliente.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarDeposito.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFornecedor.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFuncionario.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarTipoItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarUsuario.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroCliente.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroDeposito.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFornecedor.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFuncionario.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroTipoItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroUsuario.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultaFornecedor.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarCliente.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarDeposito.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarFuncionario.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarTipoItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarUsuario.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Control.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Home.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Login.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoEntrada.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoSaida.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntrada.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntradaItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaida.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaidaItem.resources
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csproj.GenerateResource.Cache
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.exe
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.pdb
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rafael\Desktop\Project_FlorInvent\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarEstoque.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe.config
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.exe
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.UI.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\System.Data.SQLite.dll
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Dao.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Interface.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\bin\Debug\Project.FlorInvent.Data.pdb
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csprojResolveAssemblyReference.cache
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarCliente.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarDeposito.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFornecedor.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarFuncionario.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarTipoItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.AlterarUsuario.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroCliente.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroDeposito.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFornecedor.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroFuncionario.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroTipoItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.CadastroUsuario.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultaFornecedor.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarCliente.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarDeposito.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarEstoque.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarFuncionario.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarTipoItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.ConsultarUsuario.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Control.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Home.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Login.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoEntrada.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.MovimentacaoSaida.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.Properties.Resources.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntrada.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioEntradaItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaida.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.RelatorioSaidaItem.resources
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.csproj.GenerateResource.Cache
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.exe
+C:\Project_FlorInvent\App\Project.FlorInvent.UI\obj\Debug\Project.FlorInvent.UI.pdb
